@@ -6,5 +6,6 @@ This tutorial focuses mainly on Git and using GitHub as its remote.
 This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub.
+Including how to work with Branches on GitHub.
 
 Pilot project, used only for tutorial on GitHub, The git course that I follow, is the W3schools's course for Git.
